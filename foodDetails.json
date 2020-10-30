@@ -1,0 +1,17 @@
+{
+    "id": 101,
+    "name": "Mutton Kacchi",
+    "price": 250,
+    "discount": 10,
+    "isFavorite": true,
+    "imageUrl": "https://c.ndtvimg.com/2019-02/45dlkeqo_mutton-biryani_625x300_27_February_19.jpg",
+    "rating": 4.8,
+    "description": "It is made with Indian spices, rice, and meat (chicken, beef, goat, pork, lamb, prawn, or fish), and sometimes, in addition, eggs and/or potatoes in certain regional varieties.[4] Biryani is popular throughout the Indian subcontinent, as well as among its diaspora. It is also prepared in other regions such as Iraqi Kurdistan.[5] It is a dish that has acquired a niche for itself in South Asian cuisine.",
+    "restaurantName": "Mom's Kitchen",
+    "restaurantZone": "Dhanmondi",
+    "ingredients": [
+        "Mutton",
+        "Potato",
+        "Egg"
+    ]
+}
