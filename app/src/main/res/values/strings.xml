@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment9</string>
+    <string name="price_lebel">Price: </string>
+    <string name="price_format">%d TK</string>
+</resources>
